@@ -2,7 +2,7 @@
   "name": "urldecode",
   "version": "0.0.1",
   "description": "decode URL data",
-  "install": "install -b urldecode.sh ${PREFIX:-/usr/local}/bin/urldecode",
+  "install": "make install",
   "scripts": [ "urldecode.sh" ]
 }
 

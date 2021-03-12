@@ -1,3 +1,6 @@
+# Example
+
+```
 #!/bin/bash
 
 VERSION=0.0.1
@@ -33,3 +36,4 @@ else
   urldecode "${@}"
   exit $?
 fi
+```
