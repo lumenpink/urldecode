@@ -1,8 +1,9 @@
 {
   "name": "urldecode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "decode URL data",
   "install": "make install",
-  "scripts": [ "urldecode.sh" ]
+  "scripts": [
+    "urldecode.sh"
+  ]
 }
-
